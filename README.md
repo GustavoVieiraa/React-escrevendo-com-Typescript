@@ -37,5 +37,5 @@
 <br>
 <div align="center">
   <h1>📼 Cronômetro de Estudos (Projeto):</h1>
-  <img src="">
+  <img src="https://raw.githubusercontent.com/GustavoVieiraa/React-escrevendo-com-Typescript/refs/heads/main/alura-gustadev-studies/src/video/cronometroDeEstudos.gif">
 </div>
